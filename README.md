@@ -27,8 +27,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Julia61/Julia61/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Julia61/Julia61/output/github-contribution-grid-snake.svg">
 </picture>
-<img align="right" height="200" src="https://i.picasion.com/pic92/c7e750b90f9cef758424207bfed3345f.gif"  />
-
+<img src="https://i.picasion.com/pic92/a92ab356e9b3ae0b1cd5d251650c6f7d.gif" width="150" height="150" border="0" alt="https://picasion.com/" />
 ###
 
 
