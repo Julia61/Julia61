@@ -1,4 +1,7 @@
 ## Olá! Eu sou a Julia
+<p align="right">
+  <img src="https://i.picasion.com/pic92/c7e750b90f9cef758424207bfed3345f.gif" width="125" height="125" border="0" alt="https://picasion.com/" />
+</p>
 <h2 align="left">Github Stats</h2>
 
 
@@ -20,9 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </div>
 </div>
-<p align="right">
-  <img src="https://i.picasion.com/pic92/c7e750b90f9cef758424207bfed3345f.gif" width="125" height="125" border="0" alt="https://picasion.com/" />
-</p>
+
 
 
 
