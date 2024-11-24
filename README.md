@@ -5,11 +5,11 @@
   <div style="float: left; margin-right: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=Julia61&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Julia61&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-  </div>
+  
 
   <!-- Imagem flutuante à direita -->
   <img src="https://i.picasion.com/pic92/a92ab356e9b3ae0b1cd5d251650c6f7d.gif" width="150" height="150" alt="Julia's gif" style="float: right; margin-right: 20px;" />
-</div>
+
 
 <!-- Tecnologias -->
 <div align="left" style="clear: both; margin-top: 20px;">
