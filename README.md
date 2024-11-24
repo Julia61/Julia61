@@ -19,6 +19,12 @@
   <p align="right">
   <img src="https://i.picasion.com/pic92/c7e750b90f9cef758424207bfed3345f.gif" width="125" height="125" border="0" alt="https://picasion.com/" />
 </p>
+    <picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Julia61/Julia61/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Julia61/Julia61/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Julia61/Julia61/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
 </div>
 </div>
 
@@ -30,12 +36,7 @@
 
 
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Julia61/Julia61/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Julia61/Julia61/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Julia61/Julia61/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
+
 
 
 
