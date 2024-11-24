@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Julia61&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
   </div>
   <div>
-    <img src="https://i.picasion.com/pic92/c7e750b90f9cef758424207bfed3345f.gif" width="125" height="125" alt="https://picasion.com/" style="border-radius: 50%; margin-left: 10px;" />
+    <img src="https://i.picasion.com/pic92/c7e750b90f9cef758424207bfed3345f.gif" width="125" height="125" alt="https://picasion.com/" style="border-radius: 50%; margin-right: 10px;" />
   </div>
 </div>
 
