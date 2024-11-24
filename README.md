@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Julia
 dsdsddd
 <p align="right">
-  <img src="https://i.picasion.com/pic92/91f56fbcde1ae83bf6a1ea9dd46a3ffd.gif" width="300" height="300" border="0" alt="https://picasion.com/" />
+  <img src="https://i.picasion.com/pic92/c7e750b90f9cef758424207bfed3345f.gif" width="125" height="125" border="0" alt="https://picasion.com/" />
 </p>
 
 
