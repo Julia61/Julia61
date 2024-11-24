@@ -4,7 +4,7 @@
 🌱 Crescendo minhas habilidades em desenvolvimento frontend com HTML, CSS e JavaScript.</br>
 💻 Apaixonada por código limpo, caça aos bugs e criar experiências incríveis para os usuários.</br>
 ✨ Sempre aprendendo, sempre curiosa! 🌟
-</br>
+ </br>
 <div align="left" style="position: relative;">
   <!-- Gráficos do GitHub -->
   <div style="float: left; margin-right: 20px;">
