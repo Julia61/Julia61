@@ -1,5 +1,9 @@
 ## Olá! Eu sou a Julia
-<img src="https://i.picasion.com/pic92/91f56fbcde1ae83bf6a1ea9dd46a3ffd.gif" width="300" height="300" border="0" alt="https://picasion.com/" />
+<p align="right">
+  <img src="https://i.picasion.com/pic92/91f56fbcde1ae83bf6a1ea9dd46a3ffd.gif" width="300" height="300" border="0" alt="https://picasion.com/" />
+</p>
+
+
 <h2 align="left">My Stack</h2>
 
 ###
