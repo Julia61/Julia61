@@ -8,7 +8,7 @@
   </div>
 
   <!-- Imagem flutuante à direita -->
-  <img src="https://i.picasion.com/pic92/a92ab356e9b3ae0b1cd5d251650c6f7d.gif" width="150" height="150" alt="Julia's gif" style="float: right; margin-left: 20px;" />
+  <img src="https://i.picasion.com/pic92/a92ab356e9b3ae0b1cd5d251650c6f7d.gif" width="150" height="150" alt="Julia's gif" style="float: right; margin-right: 20px;" />
 </div>
 
 <!-- Tecnologias -->
