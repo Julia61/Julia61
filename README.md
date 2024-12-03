@@ -1,8 +1,8 @@
 <h1 align="left">Olá! Eu sou a Julia</h1>
-🎓 Analista de dados do futuro
-☕ Estagiário Java
-🌱 Ampliando minhas habilidades em desenvolvimento frontend com HTML, CSS e JavaScript.
-✨ Sempre aprendendo, sempre curiosa! 🌟
+🎓 Analista de dados do futuro<br>
+☕ Estagiária Java<br>
+🌱 Ampliando minhas habilidades em desenvolvimento frontend com HTML, CSS e JavaScript.<br>
+✨ Sempre aprendendo, sempre curiosa! 🌟<br>
 <p></p>
 <p></p>
 
