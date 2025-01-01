@@ -4,7 +4,7 @@
 ✨ Sempre aprendendo, sempre curiosa! 🌟<br>
 <p></p>
 <p></p>
-
+<p></p>
 <div align="left" style="position: relative;">
   <!-- Gráficos do GitHub -->
   <div style="float: left; margin-right: 20px;">
