@@ -15,7 +15,7 @@
 
   
   
-  <img src="https://i.picasion.com/pic92/14bbb0a463aa279b49744f5261b2b72c.gif" width="150" height="150" alt="Julia's gif" style="float: right; margin-left: 20px;" />
+  <img src="https://i.picasion.com/pic92/14bbb0a463aa279b49744f5261b2b72c.gif" width="150" height="150" alt="Julia's gif" style="float: right; margin-left: 20px;"/>
 
 
 
