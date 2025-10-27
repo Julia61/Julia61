@@ -33,9 +33,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo" />
 </div>
 
-<!-- Animação de Snake -->
-<picture align="left">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Julia61/Julia61/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Julia61/Julia61/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Julia61/Julia61/output/github-contribution-grid-snake.svg">
-</picture>
