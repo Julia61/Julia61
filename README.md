@@ -7,12 +7,6 @@
 
 <div align="left" style="position: relative;">
   
-  <div style="float: left; margin-right: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Julia61&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Julia61&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-
-  
-
   
   
   <img src="https://i.picasion.com/pic92/14bbb0a463aa279b49744f5261b2b72c.gif" width="150" height="150" alt="Julia's gif" style="float: right; margin-left: 20px;"/>
