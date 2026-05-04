@@ -1,5 +1,4 @@
 <h1 align="left">Olá! Eu sou a Julia</h1>
-🎓 Futura Analista de Dados<br>
 ☕ Estagiária em Java<br>
 ✨ Sempre aprendendo, sempre curiosa! 🌟<br>
 <p></p>
