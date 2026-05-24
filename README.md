@@ -1,28 +1,111 @@
-<h1 align="left">Olá! Eu sou a Julia</h1>
-☕ Estagiária em Java<br>
-✨ Sempre aprendendo, sempre curiosa! 🌟<br>
-<p></p>
-<p></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&fontColor=ffffff&fontAlign=13&fontAlignY=13"/>
 
-<div align="left" style="position: relative;">
-  
-  
-  
-  <img src="https://i.picasion.com/pic92/14bbb0a463aa279b49744f5261b2b72c.gif" width="150" height="150" alt="Julia's gif" style="float: right; margin-left: 20px;"/>
+<table align="center">
+<tr>
+<td valign="middle">
 
+# 👩🏻‍💻 Julia Pinheiro | Back-End Developer
 
+> Executando: `whoami`  
+> 💜 Desenvolvedora apaixonada por tecnologia  
+> ☕ Java • Microsserviços • Spring Boot  
+> 🇧🇷 Brasil
 
-<div align="center" style="clear: both; margin-top: 20px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo" />
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=D8B4FE&width=435&lines=Hello+World!;Java+%26+Microservices+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+
+</td>
+
+<td align="center">
+<img width="180" height="180" alt="eu" src="https://github.com/user-attachments/assets/43312dae-67d5-4b4b-8446-67fdbb9b8a02" />
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/julia-pinheiro-b2425b212/">
+<img src="https://img.shields.io/badge/LinkedIn-D8B4FE?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </div>
 
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=25&pause=1000&color=D8B4FE&width=435&lines=%F0%9F%92%96+About+Me" alt="Typing SVG" />
+
+<table>
+<tr>
+<td valign="top">
+
+Sou apaixonada por tecnologia e desenvolvimento de software, trabalhando com **Java**, **Spring Boot** e **arquitetura de microsserviços**.
+
+Tenho foco em desenvolvimento **back-end**, APIs REST, banco de dados e arquitetura de aplicações escaláveis, enquanto continuo expandindo meus conhecimentos em **C#/.NET** e desenvolvimento web.
+
+Gosto de aprender novas tecnologias, construir projetos e evoluir constantemente como desenvolvedora 💜
+
+</td>
+
+<td align="center">
+<img height="150" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+</td>
+</tr>
+</table>
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=25&pause=1000&color=D8B4FE&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Typing SVG" />
+
+### 💻 Back-End
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,dotnet,cs,mysql,postgresql" />
+<img width="48" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka"/>
+</p>
+
+### 🎨 Front-End
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### ⚙️ Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+</p>
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=25&pause=1000&color=D8B4FE&width=435&lines=%F0%9F%93%9A+Current+Focus" alt="Typing SVG" />
+
+🌱 Atualmente focando em:
+
+- ☕ Java & Spring Boot  
+- 🧩 Arquitetura de Microsserviços  
+- 📡 APIs REST  
+- 📨 Kafka & Mensageria  
+- 🗄️ SQL & Banco de Dados  
+- 🧼 Clean Code & Boas Práticas  
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=25&pause=1000&color=D8B4FE&width=435&lines=%F0%9F%93%8A+GitHub+Stats" alt="Typing SVG" />
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Julia61&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julia61&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Let's Connect!
+
+<a href="https://www.linkedin.com/in/julia-pinheiro-b2425b212/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-D8B4FE?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"/>
