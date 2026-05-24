@@ -90,21 +90,21 @@ Gosto de aprender novas tecnologias, construir projetos e evoluir constantemente
 
 <div align="center">
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Julia61&theme=tokyonight" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Julia61&theme=omni" />
 
 </div>
 
 <div align="center">
 
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Julia61&theme=tokyonight" />
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Julia61&theme=omni" />
 
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Julia61&theme=tokyonight" />
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Julia61&theme=omni" />
 
 </div>
 
 <div align="center">
 
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Julia61&theme=tokyonight&utcOffset=-3" />
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Julia61&theme=omni&utcOffset=-3" />
 
 </div>
 
