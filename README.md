@@ -6,7 +6,7 @@
 
 # 👩🏻‍💻 Julia Pinheiro | Back-End Developer
 
-> Executando: `whoami`  
+> `julia@github:~$ whoami`  
 > 💜 Desenvolvedora apaixonada por tecnologia  
 > ☕ Java • Microsserviços • Spring Boot  
 > 🇧🇷 Brasil
@@ -90,9 +90,21 @@ Gosto de aprender novas tecnologias, construir projetos e evoluir constantemente
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Julia61&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Julia61&theme=tokyonight" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julia61&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Julia61&theme=tokyonight" />
+
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Julia61&theme=tokyonight" />
+
+</div>
+
+<div align="center">
+
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Julia61&theme=tokyonight&utcOffset=-3" />
 
 </div>
 
