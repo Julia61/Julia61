@@ -7,7 +7,6 @@
 # 👩🏻‍💻 Julia Pinheiro | Back-End Developer
 
 > `julia@github:~$ whoami`  
-> 💜 Desenvolvedora apaixonada por tecnologia  
 > ☕ Java • Microsserviços • Spring Boot  
 > 🇧🇷 Brasil
 
